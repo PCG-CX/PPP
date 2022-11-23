@@ -1,3 +1,5 @@
+changes using "nano" 
+
 first change in branch future-plans
 
 Second change made in the remote repo / received in the local
